@@ -1,0 +1,58 @@
+
+body
+{
+padding: 150px;
+font-family: 'Turret Road', cursive;
+font-size: 16pt;
+color: black;
+}
+
+h1{
+font-family: 'Turret Road', cursive;
+text-align: center;
+
+  text-decoration: underline;
+}
+
+h2{
+font-family: 'Turret Road', cursive;
+text-align: center;
+
+  text-decoration: underline;
+  font-size: 10pt;
+  margin-top: 10px;
+}
+
+h3{
+font-family: 'Turret Road', cursive;
+text-align: center;
+font-size: 10pt;
+margin-top: 3px;
+}
+
+h4{
+display: relative;
+font-family: 'Turret Road', cursive;
+text-align: center;
+font-size: 10pt;
+margin-top: 3px;
+}
+
+.aboutbox{
+width: 140px;
+border: 1px solid black;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.boxbig{
+width: 140px;
+padding: 10px;
+border: 1px solid black;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}

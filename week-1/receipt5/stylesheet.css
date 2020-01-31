@@ -1,0 +1,104 @@
+strong{
+font-weight:bold;
+}
+
+body
+{
+padding: 150px;
+font-family: 'Coda', cursive;
+font-size: 16pt;
+color: black;
+}
+
+h1{
+font-size: 24pt;
+font-family: Brush Script MT,cursive; 
+text-align: center;
+}
+
+h2{
+text-align: center;
+font-size: 12pt;
+font-family: Arial,Helvetica Neue,Helvetica,sans-serif; 
+font-weight: bold;
+
+}
+
+h3{
+text-align: center;
+font-size: 9pt;
+font-family: Arial,Helvetica Neue,Helvetica,sans-serif; 
+line-height: 15pt;
+}
+
+h4{
+text-align: center;
+font-size: 40pt;
+font-family: Arial,Helvetica Neue,Helvetica,sans-serif; 
+font-weight: bold;
+
+}
+
+h5{
+text-align: left;
+font-size: 25pt;
+font-family: Arial,Helvetica Neue,Helvetica,sans-serif; 
+font-weight: bold;
+margin-top: 20px;
+
+}
+
+h6{
+text-align: left;
+font-size: 12pt;
+font-family: Arial,Helvetica Neue,Helvetica,sans-serif; 
+font-weight: bold;
+
+}
+
+h7{
+font-size: 12pt;
+font-family: Arial,Helvetica Neue,Helvetica,sans-serif; 
+font-weight: bold;
+text-align: right;
+
+}
+
+h8{
+text-align: right;
+font-size: 9pt;
+font-family: Arial,Helvetica Neue,Helvetica,sans-serif; 
+line-height: 15pt;
+width: 100%;
+}
+
+h9{
+position: absolute;
+text-align: left;
+font-size: 25pt;
+font-family: Arial,Helvetica Neue,Helvetica,sans-serif; 
+font-weight: bold;
+margin-top: -100px;
+
+
+}
+
+.boxbig{
+width: 300px;
+padding: 10px;
+border: 1px solid black;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+img{
+height: 40px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+
