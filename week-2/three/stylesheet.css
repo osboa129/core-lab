@@ -1,0 +1,88 @@
+@font-face{
+<link href="https://fonts.googleapis.com/css?family=Josefin+Sans:100,100i,300,300i,400,400i,600,600i,700,700i&display=swap" rel="stylesheet">
+font-family: 'Josefin Sans', sans-serif;
+}
+
+body
+{
+font-family: monaco,Consolas,Lucida Console,monospace;
+font-size: 16pt;
+color: black;
+}
+
+h1{
+text-align: left;
+font-size: 30pt;
+padding: 10px;
+color: white;
+font-family: 'Sigmar One', cursive;
+
+
+}
+
+h2{
+text-align: left;
+font-size: 24pt;
+font-family: 'Sigmar One', cursive;
+}
+
+h3{
+
+text-align: left
+font-size: 8pt;
+margin-top: 3px;
+line-height: 13pt;
+}
+
+h4{
+text-align: left;
+font-size: 8pt;
+margin-top: 3px;
+line-height: 13pt;
+}
+
+h5{
+text-align: left;
+margin-left: 50px;
+font-size: 8pt;
+margin-top: 3px;
+line-height: 13pt;
+}
+
+h6{
+text-align: left;
+font-size: 8pt;
+margin-top: -15px;
+line-height: 13pt;
+}
+
+h7{
+text-align: left;
+font-size: 8pt;
+line-height: 15pt;
+}
+
+.boxbig{
+width: 100%;
+padding: 10px;
+border: 1px solid black;
+display: block;
+  margin-top: 100px;
+
+}
+
+.blackbox{
+width: 60px;
+padding: 5px;
+border: 1px solid black;
+background-color: black;
+display: block;
+  border-radius: 15px 15px 15px 15px;
+
+}
+
+.flex{
+column-count: 3;
+text-align: bottom;
+margin-top: 340px;
+}
